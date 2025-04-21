@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993510402993",
+    "project_id": "nutrishop-3c19c",
+    "storage_bucket": "nutrishop-3c19c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993510402993:android:c07c5dcb10e2c59e48eb90",
+        "android_client_info": {
+          "package_name": "com.example.nutrishop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1oHzNAmIKOdSUZpqtiRUZBc9CsRZc9X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
